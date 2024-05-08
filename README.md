@@ -2,7 +2,7 @@
 A small project to explore OOP with a tutorial made by 'Techwith Tim'
 #Pygame
 <h3>Features</h3>
-Live counter|
+Live counter |
 Enemie ships apears and some randomly shoots at player |
 Player life gauge 
 <hr>
